@@ -4,8 +4,8 @@ FastAPI is a modern, fast (high-performance), web framework for building APIs wi
 
 Fruits and it's Production Api. 
 Tiny app can provide the following features:
-       Add (post) fruit, production
-       Get fruits, its production data 
+      # Add (post) fruit, production
+      # Get fruits, its production data 
 
 # Installation
 ```
