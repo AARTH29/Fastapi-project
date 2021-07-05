@@ -2,11 +2,10 @@
 
 FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
 
-Fruits and it's production Api
-Tiny app provide the following features:
-
-  Add new fruit, production data
-  Get a list of fruits and its production data
+Fruits and it's Production Api. 
+Tiny app can provide the following features:
+       Add (post) fruit, production
+       Get fruits, its production data 
 
 # Installation
 ```
